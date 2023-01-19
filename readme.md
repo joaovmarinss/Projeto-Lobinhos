@@ -1,7 +1,4 @@
-# Projeto Lobinho do Grupo **Cerbero**
-
-## Integrantes 
 
 * Gabriel Silva Marinho
-* João Vitor Maris
+* João Vitor Marins
 * Evaldo F.  da Silva
